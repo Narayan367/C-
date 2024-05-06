@@ -43,5 +43,6 @@ class Program
     {
         Employee emp = new Employee("John Doe", 30, 1001, "IT");
         emp.DisplayEmployeeDetails();
+        
     }
 }
